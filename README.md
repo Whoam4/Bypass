@@ -20,12 +20,12 @@ Just follow the steps In my example, recover the password of the user mario_1
 
 
 
-1.  Click  ![Texto alternativo](images/Captura.png)
+1.  Click  ![Texto alternativo](Captura.PNG)
 
-2.  Click
+3.  Click
      ![Texto alternativo](Captura1.png)
 
-3. Click
+4. Click
      ![Texto alternativo](Captura2.png)
 
         
