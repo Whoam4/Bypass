@@ -21,31 +21,32 @@ Just follow the steps In my example, recover the password of the user mario_1
 --------------------------------------------------------
 
 
-1.  Click
+1.    Click
      ![Texto alternativo](Captura.PNG)
 
-2. Click
-    ![Texto alternativo](Captura1.png)
+2.   Click
+    ![Texto alternativo](Captura2.png)
 
 
-4.  ![Texto alternativo](Captura2.PNG)
+3.   Click
+   ![Texto alternativo](Captura3.PNG)
 
         
-5.  Click 
-     ![Texto alternativo](Captura3.PNG)
-
- 
-6. ls /home para ver los usuarios de la maquina.    /  	 ls /home to see the machine users
+4.   ls /home para ver los usuarios de la maquina.            /  	 	 ls /home to see the machine users 
      ![Texto alternativo](Captura4.PNG)
 
  
-
-7. Cambiar la contraseña desconocida  	/ 	Change uknown Password
+5.   Cambiar la contraseña desconocida  	/ 	 Change uknown Password
      ![Texto alternativo](Captura5.PNG)
 
  
-8. Reiniciar 	/	 Reboot
-    ![Texto alternativo](Captura6.PNG)
+
+6.   Reiniciar 	/	  Reboot
+     ![Texto alternativo](Captura6.PNG)
+
+ 
+7.  Iniciar Sesion	 / 	 Login 
+    ![Texto alternativo](Captura7.PNG)
 
  
 
