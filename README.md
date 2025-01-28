@@ -27,8 +27,7 @@ Just follow the steps In my example, recover the password of the user mario_1
 
 
 
-3. Click
-     ![Texto alternativo](Captura2.PNG)
+3.  ![Texto alternativo](Captura2.PNG)
 
         
 4.  Click 
