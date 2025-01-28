@@ -6,15 +6,15 @@
 
 ## ES : BYPASS O RECUPERACION DE CONTRASEÑA EN SERVIDOR UBUNTU SIN INTERFAZ
 
-Contexto: Se os ha olvidado vuestra contraseña y no podeis iniciar sesion. Lo que vamos a hacer en este tutorial es cambiar la contraseña desconocida por una nueva que si recordaremos.
+**Contexto:** Se os ha olvidado vuestra contraseña y no podeis iniciar sesion. Lo que vamos a hacer en este tutorial es cambiar la contraseña desconocida por una nueva que si recordaremos.
 Simplemente seguir los pasos 
 
-En el ejemplo mio, recupero la contraseña de el usuario mario_1
+En el ejemplo mio, recupero la contraseña de el usuario mario_1 
 
 
 ## EN: BYPASS UBUNTU SERVER WITHOUT INTERFACE          
 
-Context: You have forgotten your password and cannot log in. What we are going to do in this tutorial is change the unknown password for a new one that we will remember. 
+**Context:** You have forgotten your password and cannot log in. What we are going to do in this tutorial is change the unknown password for a new one that we will remember. 
 
 Just follow the steps In my example, recover the password of the user mario_1
 
