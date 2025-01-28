@@ -38,7 +38,7 @@ Just follow the steps In my example, recover the password of the user mario_1
      ![Texto alternativo](Captura3.PNG)
 
  
-5. ls /home para ver los usuarios de la maquina.            /  	 	 ls /home to see the machine users
+5. ls /home para ver los usuarios de la maquina.    /  	 ls /home to see the machine users
      ![Texto alternativo](Captura4.PNG)
 
  
